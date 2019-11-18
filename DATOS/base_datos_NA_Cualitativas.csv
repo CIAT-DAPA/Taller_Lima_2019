@@ -1,0 +1,305 @@
+Genero,Comunidad_senor,Comuniad_senora,rango_familia_menor_10,rango_familia_entre_10_y_20,rango_familia_entre_20_y_50,rango_familia_entre_50_y_70,rango_familia_mayor_70,rango_familia_NR,Variedad,Rango_cafe_entre_0_y_2.9,Rango_cafe_entre_3_y_9,Rango_cafe_mas_9,Rango_cafe_NR,Tipo_insumo_orgánico,Potrero,Potrero_Ganado,Estado_café_seco,Estado_café_NR,Credito
+M,Afro,Campesino,"[2,4]","[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,"[1,10]","[2,10]",No,No,"[12,  52)",2,Si
+M,Afro,Afro,1,"[2,5]",2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,Si,No,"[12,  52)",2,Si
+M,Afro,Afro,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[52,1096]",2,Si
+M,Afro,Afro,1,0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,NA,Afro,0,1,"[0,2)",0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)",2,Si
+M,Afro,NA,1,0,"[0,2)",0,0,0,otro/varios,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Afro,NA,"[2,4]",0,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)",2,Si
+M,Afro,Afro,"[2,4]",1,"[3,5]",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,"[1,10]",0,No,No,"[ 0,  12)",2,Si
+M,Afro,NA,0,1,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,No,No,"[ 0,  12)","[3,9]",Si
+M,NA,Campesino,0,1,2,"[2,3]",0,0,otro/varios,"[2,10]","[3,10]",0,0,"[2,10]",Si,No,"[ 0,  12)","[3,9]",No
+M,NA,Campesino,0,0,"[0,2)",1,0,0,Fedecafetero,"[2,10]","[3,10]","[1,2]",0,"[2,10]",No,No,"[12,  52)","[3,9]",Si
+M,NA,Campesino,1,0,2,1,0,0,Fedecafetero,"[0, 2)",2,0,0,1,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,1,2,0,0,0,Caturra,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]","[2,10]",No,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,0,"[3,5]",0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,0,0,"[0,2)",1,"[1,2]",0,Caturra,"[2,10]","[3,10]",0,"[1,10]",1,No,No,"[52,1096]","[3,9]",Si
+M,Campesino,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,1,No,No,"[ 0,  12)",2,No
+M,Campesino,Campesino,0,1,2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,Si,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[12,  52)","[3,9]",Si
+M,Campesino,Campesino,1,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)",2,0,"[1,10]","[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,1,0,2,0,0,0,Caturra,"[0, 2)",2,0,"[1,10]",1,No,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,Campesino,0,1,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",1,No,No,"[ 0,  12)","[3,9]",No
+M,Campesino,Campesino,0,0,2,1,"[1,2]",0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,1,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,Campesino,0,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,1,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)","[3,9]",Si
+M,Campesino,Campesino,1,0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]",2,Si
+M,NA,Campesino,0,0,"[3,5]",1,0,0,Caturra,"[0, 2)","[0, 2)",0,0,1,No,No,"[12,  52)","[0,2)",Si
+M,NA,Campesino,1,0,"[3,5]",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,"[2,5]",2,0,"[1,2]",0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,NA,Campesino,"[2,4]",1,"[3,5]","[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[ 0,  12)","[3,9]",Si
+M,NA,Campesino,1,0,"[3,5]","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]","[1,10]","[2,10]",No,No,"[ 0,  12)",2,No
+M,NA,Campesino,0,1,"[3,5]",0,0,0,Fedecafetero,"[0, 2)",2,0,0,"[2,10]",No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,1,1,"[3,5]",0,0,0,Fedecafetero,"[0, 2)",2,0,0,1,No,No,"[ 0,  12)","[0,2)",No
+M,NA,Campesino,"[2,4]",1,"[3,5]",1,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,NA,Misak,1,1,"[0,2)",0,0,0,alta calidad,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)",2,Si
+M,NA,Campesino,0,1,2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,0,1,"[3,5]",0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,NA,Campesino,0,0,"[0,2)",1,0,0,Fedecafetero,"[2,10]",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,NA,Campesino,0,"[2,5]","[0,2)",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]","[3,9]",No
+M,Campesino,Campesino,0,0,"[0,2)",1,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,No,No,"[ 0,  12)",2,Si
+M,Campesino,Campesino,0,1,2,0,"[1,2]","[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)",2,NA
+M,Campesino,NA,0,0,"[0,2)",0,0,0,Caturra,"[0, 2)","[0, 2)",0,0,"[2,10]",Si,No,"[ 0,  12)","[0,2)",NA
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)",2,No
+M,NA,Nasa,1,0,"[0,2)",1,0,"[1,6]",Catimore,"[2,10]",2,0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Nasa,Nasa,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Nasa,Nasa,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Nasa,Nasa,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)",2,0,"[1,10]",1,Si,Si,"[52,1096]",2,No
+M,Nasa,Nasa,0,1,"[3,5]",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,NA,Nasa,0,1,"[3,5]",1,0,0,NA,"[2,10]","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,1,"[2,5]","[3,5]",0,0,0,Fedecafetero,"[2,10]","[0, 2)","[1,2]",0,0,No,No,"[12,  52)",2,Si
+M,Nasa,Nasa,"[2,4]","[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,No,No,"[52,1096]",2,No
+M,Nasa,NA,0,0,"[0,2)",0,"[1,2]",0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[52,1096]","[0,2)",No
+M,Nasa,Nasa,"[2,4]",0,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]",2,Si
+M,Nasa,Nasa,0,1,2,1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Nasa,Nasa,0,1,"[3,5]",1,0,0,NA,"[2,10]","[3,10]",0,"[1,10]",1,No,No,"[12,  52)","[3,9]",No
+M,Nasa,Nasa,1,1,"[3,5]",0,0,0,Fedecafetero,"[0, 2)",2,0,"[1,10]",1,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,0,1,2,1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,1,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]","[1,2]",0,0,No,No,"[52,1096]","[3,9]",Si
+M,NA,Misak,0,0,"[0,2)",1,0,0,NA,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,NA,Misak,0,1,"[0,2)",1,0,0,NA,"[0, 2)","[0, 2)",0,"[1,10]","[2,10]",No,No,"[12,  52)","[0,2)",No
+M,Nasa,Misak,0,"[2,5]","[0,2)",1,0,"[1,6]",NA,"[0, 2)","[0, 2)",0,"[1,10]",1,Si,No,"[ 0,  12)","[0,2)",No
+M,Misak,Nasa,0,0,2,0,0,"[1,6]",Catimore,"[2,10]","[0, 2)","[1,2]",0,"[2,10]",No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,1,"[2,5]",2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,No,No,"[ 0,  12)",2,No
+M,Nasa,Nasa,0,1,"[3,5]",1,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,Si,No,"[ 0,  12)",2,Si
+M,NA,Nasa,0,0,2,0,0,0,Catimore,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,NA,Nasa,0,1,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,0,0,2,0,0,"[1,6]",Fedecafetero,"[2,10]","[0, 2)",0,0,1,Si,Si,"[ 0,  12)",2,No
+M,Nasa,Nasa,0,0,"[3,5]",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,"[2,4]",1,"[0,2)",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,"[2,10]",Si,No,"[ 0,  12)",2,Si
+M,Campesino,Campesino,0,1,2,0,0,0,Catimore,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,Nasa,NA,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,1,No,No,"[ 0,  12)","[0,2)",NA
+M,Misak,Misak,0,"[2,5]","[3,5]",0,0,0,Fedecafetero,"[0, 2)",2,"[1,2]",0,0,No,No,"[12,  52)",2,NA
+M,Afro,Misak,1,0,2,1,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)",2,No
+M,Campesino,Campesino,0,0,"[0,2)",0,"[1,2]","[1,6]",Caturra,"[0, 2)",2,0,0,0,Si,No,"[52,1096]",2,Si
+M,Campesino,NA,1,0,2,1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,"[2,10]",Si,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[3,9]",Si
+M,Campesino,NA,0,1,"[0,2)",1,0,0,alta calidad,"[0, 2)",2,0,0,"[2,10]",Si,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,1,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,"[2,10]",Si,No,"[ 0,  12)","[3,9]",Si
+M,Misak,Misak,0,0,"[0,2)",1,"[1,2]",0,alta calidad,"[0, 2)","[0, 2)",0,0,0,Si,No,"[ 0,  12)","[0,2)",NA
+M,NA,Misak,"[2,4]",0,2,1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,Misak,Misak,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",Si
+M,Misak,Misak,0,0,2,"[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,1,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,1,No,No,"[12,  52)","[0,2)",Si
+M,NA,Nasa,0,1,"[0,2)",0,"[1,2]",0,Fedecafetero,"[2,10]",2,0,0,1,No,No,"[12,  52)","[3,9]",No
+M,Nasa,Nasa,1,1,"[0,2)",0,0,0,NA,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,0,2,"[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]",2,Si
+M,Campesino,NA,0,0,2,0,0,"[1,6]",Fedecafetero,"[2,10]",2,0,0,"[2,10]",No,No,"[12,  52)","[3,9]",No
+M,NA,NA,"[2,4]",0,"[0,2)",1,0,"[1,6]",Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)","[3,9]",No
+M,Campesino,NA,0,0,"[0,2)","[2,3]",0,0,NA,"[0, 2)","[0, 2)",0,0,NA,No,No,"[52,1096]","[0,2)",Si
+M,Nasa,NA,"[2,4]",0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[0, 2)",0,"[1,10]",0,No,No,"[52,1096]","[0,2)",Si
+M,Afro,Campesino,1,"[2,5]","[0,2)",0,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,0,Si,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,Campesino,1,0,2,"[2,3]",0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Afro,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,No,"[52,1096]","[0,2)",Si
+M,Afro,Afro,1,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,0,No,No,"[ 0,  12)",2,Si
+M,Campesino,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[2,10]",2,0,0,0,No,No,"[ 0,  12)","[3,9]",Si
+M,Nasa,NA,0,"[2,5]",2,1,0,0,NA,"[2,10]","[3,10]","[1,2]",0,1,No,No,"[12,  52)","[3,9]",Si
+M,Campesino,Campesino,0,1,"[0,2)","[2,3]",0,0,NA,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,alta calidad,"[2,10]",2,0,0,"[2,10]",No,No,"[12,  52)","[0,2)",Si
+M,NA,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,alta calidad,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Nasa,Misak,"[2,4]",1,2,0,0,0,alta calidad,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,Fedecafetero,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Misak,Misak,1,0,"[0,2)",0,0,"[1,6]",Fedecafetero,NA,NA,NA,NA,0,Si,Si,NA,NA,Si
+M,NA,NA,0,0,2,0,0,"[1,6]",Fedecafetero,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Misak,NA,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,No,No,NA,NA,Si
+M,Campesino,Campesino,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,NA,Campesino,1,1,"[0,2)",0,0,0,alta calidad,NA,NA,NA,NA,NA,No,No,NA,NA,NA
+M,Misak,Misak,0,"[2,5]",2,0,0,0,alta calidad,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,NA,Campesino,0,0,2,0,0,0,alta calidad,NA,NA,NA,NA,0,No,No,NA,NA,NA
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,Fedecafetero,NA,NA,NA,NA,0,No,No,NA,NA,No
+M,Campesino,Campesino,"[2,4]",0,2,1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]","[2,10]",Si,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,0,"[2,5]","[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[0, 2)","[1,2]",0,1,No,No,"[ 0,  12)","[3,9]",No
+M,Campesino,NA,"[2,4]","[2,5]",2,0,0,0,alta calidad,"[0, 2)",2,0,"[1,10]",0,No,No,"[ 0,  12)",2,Si
+M,Afro,NA,0,0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]","[1,10]",1,No,No,"[52,1096]","[0,2)",Si
+M,Afro,Afro,0,1,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]",2,0,"[1,10]",1,Si,No,"[52,1096]","[3,9]",Si
+M,Afro,Afro,"[2,4]",1,2,0,0,0,alta calidad,"[0, 2)",2,0,0,"[2,10]",No,No,"[52,1096]","[0,2)",NA
+M,Nasa,Nasa,"[2,4]",0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Afro,Campesino,1,0,2,0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,"[2,4]",0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",1,No,No,"[12,  52)",2,No
+M,Campesino,Afro,1,0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,0,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,NA,0,0,"[0,2)",0,0,0,alta calidad,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",NA
+M,Afro,Afro,"[2,4]",0,2,0,0,0,alta calidad,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Nasa,Nasa,0,"[2,5]",2,0,0,0,alta calidad,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)",2,Si
+M,NA,Nasa,1,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,NA,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",NA
+M,Campesino,NA,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,1,Si,No,"[ 0,  12)","[0,2)",Si
+M,Afro,Afro,0,1,"[3,5]",0,0,0,alta calidad,"[2,10]",2,0,0,0,Si,No,"[12,  52)",2,Si
+M,Campesino,NA,0,0,"[0,2)",0,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,1,No,No,"[12,  52)",2,NA
+M,NA,Afro,1,1,"[0,2)",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,Si,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,NA,0,0,"[0,2)",0,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,alta calidad,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[3,9]",No
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,alta calidad,"[0, 2)",2,0,0,0,No,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,1,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,NA,Campesino,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,1,No,No,"[12,  52)","[3,9]",NA
+M,Campesino,NA,0,"[2,5]",2,0,"[1,2]",0,Fedecafetero,"[0, 2)","[3,10]",0,"[1,10]","[2,10]",No,No,"[12,  52)","[3,9]",No
+M,NA,Campesino,0,0,"[0,2)",1,0,0,NA,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[3,9]",NA
+M,Campesino,NA,0,0,"[0,2)",1,"[1,2]",0,Caturra,"[2,10]","[3,10]",0,0,1,No,No,"[52,1096]","[3,9]",Si
+M,Campesino,NA,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,1,No,No,"[52,1096]","[0,2)",Si
+M,Misak,Misak,"[2,4]",0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,"[2,10]",No,No,"[ 0,  12)",2,Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Nasa,Nasa,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,No,No,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,0,0,"[3,5]",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[3,9]",Si
+M,Misak,Misak,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,No,"[12,  52)",2,Si
+M,Campesino,Campesino,"[2,4]",1,2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[52,1096]",2,Si
+M,Campesino,NA,0,0,"[0,2)",0,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,0,1,"[3,5]",0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[52,1096]",2,No
+M,NA,Campesino,0,1,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]","[2,10]",No,No,"[52,1096]",2,Si
+M,Otro,Campesino,"[2,4]",0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]","[3,9]",Si
+M,Nasa,Nasa,0,"[2,5]","[0,2)",1,0,0,Fedecafetero,"[2,10]",2,0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,1,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[12,  52)","[3,9]",Si
+M,Campesino,NA,0,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,1,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",1,No,No,"[52,1096]","[0,2)",No
+M,Campesino,NA,0,0,"[0,2)",0,0,0,Caturra,"[0, 2)","[0, 2)","[1,2]",0,"[2,10]",No,No,"[12,  52)",2,No
+M,Campesino,NA,0,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)",2,0,0,NA,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,0,"[2,5]",2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)",2,No
+M,NA,Campesino,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[0, 2)","[0, 2)",0,0,"[2,10]",Si,Si,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)",0,"[1,2]",0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)",2,No
+M,Nasa,NA,1,0,"[0,2)",1,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,"[1,10]",0,Si,No,"[12,  52)","[3,9]",Si
+M,Campesino,NA,0,"[2,5]",2,1,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,NA,No,No,"[ 0,  12)",2,No
+M,Misak,Misak,1,0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,1,"[2,5]","[3,5]",0,0,"[1,6]",Caturra,"[0, 2)","[0, 2)",0,"[1,10]",1,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,No,"[ 0,  12)","[0,2)",No
+M,NA,Misak,1,0,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Nasa,Nasa,0,0,"[0,2)",1,0,"[1,6]",NA,"[0, 2)","[0, 2)",0,"[1,10]",1,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,NA,0,0,"[0,2)",1,0,0,alta calidad,"[0, 2)",2,0,0,0,No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,1,"[2,5]","[0,2)",1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[12,  52)","[3,9]",Si
+M,Nasa,Nasa,0,1,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[3,10]",0,0,0,No,No,"[ 0,  12)","[3,9]",No
+M,NA,Nasa,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,1,"[2,5]","[0,2)",1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[3,9]",Si
+M,NA,NA,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]",2,"[1,2]",0,0,No,No,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,1,2,0,0,0,Caturra,"[0, 2)","[3,10]",0,0,"[2,10]",Si,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,0,0,"[3,5]",1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,0,2,0,0,"[1,6]",alta calidad,"[0, 2)",2,0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,2,0,0,0,Caturra,"[0, 2)","[0, 2)",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Misak,Misak,"[2,4]",0,2,0,0,0,alta calidad,"[2,10]",2,0,"[1,10]",1,No,No,"[12,  52)","[3,9]",NA
+M,Misak,Misak,1,0,2,0,0,0,alta calidad,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,"[2,4]","[2,5]",2,0,0,0,NA,"[0, 2)","[0, 2)",0,"[1,10]",0,No,No,"[12,  52)",2,No
+M,Nasa,Nasa,1,1,2,0,0,0,Caturra,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",NA
+M,Campesino,NA,0,0,2,0,"[1,2]",0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,NA,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,NA,Campesino,0,1,"[0,2)",0,0,0,NA,"[0, 2)","[0, 2)",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",No
+M,NA,Campesino,1,"[2,5]",2,1,0,0,Fedecafetero,"[0, 2)",2,"[1,2]",0,0,No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,NA,"[2,4]","[2,5]",2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,NA,No,No,"[ 0,  12)","[3,9]",No
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,Fedecafetero,"[2,10]",2,0,0,0,No,No,"[ 0,  12)","[3,9]",Si
+M,Campesino,Campesino,1,0,"[0,2)",1,0,"[1,6]",NA,"[0, 2)",2,0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,"[2,4]",1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,NA,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,NA,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,1,1,"[0,2)",1,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,1,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,NA,0,1,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]",2,0,0,0,Si,Si,"[52,1096]","[3,9]",Si
+M,Campesino,NA,0,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,NA,No,No,"[ 0,  12)","[0,2)",Si
+M,Nasa,NA,0,0,"[0,2)",0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,0,1,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,Si,Si,"[52,1096]","[3,9]",Si
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,Catimore,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]",2,No
+M,NA,Campesino,0,1,"[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,"[2,10]",Si,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]","[1,2]",0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,"[2,5]","[0,2)",1,0,0,Caturra,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[12,  52)",2,No
+M,Nasa,Nasa,1,0,2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[52,1096]",2,No
+M,Campesino,NA,0,0,2,1,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,NA,Si,No,"[12,  52)","[0,2)",No
+M,Misak,Misak,"[2,4]",0,2,0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,NA,1,0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,NA,No,No,"[ 0,  12)",2,No
+M,Campesino,Campesino,1,0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,Si,Si,"[ 0,  12)","[3,9]",NA
+M,Campesino,NA,0,1,2,"[2,3]",0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,Si,Si,"[ 0,  12)",2,NA
+M,NA,NA,0,"[2,5]",2,0,0,0,NA,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[12,  52)","[0,2)",No
+M,Campesino,Campesino,0,1,"[3,5]",0,0,0,alta calidad,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[3,9]",Si
+M,Campesino,Nasa,"[2,4]",0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[0, 2)",2,"[1,2]",0,"[2,10]",No,No,"[12,  52)","[3,9]",No
+M,Campesino,Campesino,1,1,2,0,0,0,alta calidad,NA,NA,NA,NA,0,Si,Si,NA,NA,Si
+M,Campesino,NA,1,1,2,0,0,0,alta calidad,"[2,10]","[0, 2)",0,0,NA,No,No,"[ 0,  12)",2,Si
+M,Campesino,Campesino,1,0,2,"[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",Si,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,Fedecafetero,"[2,10]",2,0,0,"[2,10]",No,No,"[12,  52)","[3,9]",Si
+M,Misak,Misak,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,Si,Si,"[ 0,  12)","[0,2)",NA
+M,Campesino,Campesino,1,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",Si,Si,"[52,1096]",2,Si
+M,Campesino,Campesino,0,"[2,5]","[0,2)","[2,3]",0,"[1,6]",Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]",2,Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[3,10]",0,"[1,10]","[2,10]",Si,No,"[52,1096]","[3,9]",Si
+M,Misak,Misak,"[2,4]",0,2,0,0,0,Fedecafetero,NA,NA,NA,NA,NA,No,No,NA,NA,NA
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,otro/varios,"[0, 2)",2,0,0,"[2,10]",No,No,"[52,1096]",2,Si
+M,Nasa,Nasa,0,0,"[0,2)","[2,3]",0,0,otro/varios,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,Catimore,"[0, 2)","[0, 2)",0,0,1,Si,No,"[52,1096]","[0,2)",No
+M,Campesino,NA,0,0,"[3,5]",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,NA,No,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,0,0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,Si,No,"[ 0,  12)",2,Si
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)","[1,2]",0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Misak,Misak,0,"[2,5]","[0,2)","[2,3]",0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,1,No,No,"[ 0,  12)","[0,2)",NA
+M,Misak,Misak,1,"[2,5]",2,0,0,"[1,6]",Fedecafetero,NA,NA,NA,NA,1,No,No,NA,NA,Si
+M,Campesino,NA,1,0,2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,NA,No,No,"[ 0,  12)",2,Si
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Nasa,NA,1,0,"[0,2)",1,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,"[2,10]",No,No,"[12,  52)",2,Si
+M,Campesino,Campesino,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[3,9]",Si
+M,Misak,Misak,0,0,"[3,5]",0,0,0,Fedecafetero,NA,NA,NA,NA,NA,Si,No,NA,NA,NA
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,"[1,6]",otro/varios,"[0, 2)","[0, 2)",0,0,1,No,No,"[52,1096]","[0,2)",No
+M,Campesino,NA,0,0,"[0,2)",0,"[1,2]",0,Catimore,"[0, 2)","[3,10]",0,0,NA,Si,No,"[12,  52)","[3,9]",No
+M,Campesino,NA,0,0,2,0,0,0,otro/varios,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,0,"[2,5]",2,1,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,No,No,"[ 0,  12)","[0,2)",Si
+M,Campesino,NA,0,0,"[0,2)","[2,3]",0,0,alta calidad,"[2,10]",2,0,0,NA,No,No,"[52,1096]","[3,9]",Si
+M,Campesino,Campesino,"[2,4]",0,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,2,1,"[1,2]",0,Fedecafetero,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,alta calidad,"[0, 2)","[3,10]",0,"[1,10]","[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,1,1,"[0,2)",1,0,"[1,6]",Catimore,"[0, 2)","[0, 2)","[1,2]",0,1,No,No,"[12,  52)","[0,2)",Si
+F,NA,NA,"[2,4]",0,"[0,2)",1,0,"[1,6]",alta calidad,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)","[0,2)",No
+F,Campesino,Campesino,0,"[2,5]",2,0,0,0,Fedecafetero,"[2,10]",2,0,0,"[2,10]",No,No,"[12,  52)","[0,2)",Si
+M,Campesino,Campesino,1,"[2,5]",2,0,0,0,alta calidad,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,1,1,2,1,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[12,  52)","[0,2)",Si
+F,Afro,Afro,0,1,"[0,2)","[2,3]",0,0,alta calidad,"[2,10]",2,"[1,2]",0,"[2,10]",No,No,"[52,1096]","[0,2)",No
+M,Campesino,Campesino,0,0,"[0,2)",1,0,"[1,6]",alta calidad,"[0, 2)",2,0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Nasa,Nasa,"[2,4]",0,2,0,0,0,otro/varios,"[0, 2)","[0, 2)",0,0,"[2,10]",No,No,"[ 0,  12)","[0,2)",No
+F,Campesino,Campesino,0,1,2,0,0,0,alta calidad,"[0, 2)","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+M,Campesino,Campesino,1,1,2,0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[ 0,  12)","[0,2)",No
+F,NA,NA,"[2,4]","[2,5]","[0,2)",0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,1,No,No,NA,"[0,2)",NA
+F,NA,NA,1,1,"[0,2)",0,0,0,NA,NA,NA,NA,NA,NA,No,No,NA,"[0,2)",NA
+F,NA,NA,0,"[2,5]","[0,2)",0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,NA,"[0,2)",Si
+M,Misak,Campesino,1,1,2,0,0,0,otro/varios,"[0, 2)","[0, 2)",0,0,1,No,No,NA,"[0,2)",No
+M,Campesino,Campesino,0,0,"[0,2)","[2,3]",0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,"[2,4]",0,2,0,0,0,NA,"[0, 2)","[0, 2)",0,"[1,10]",0,Si,No,NA,"[0,2)",No
+M,Campesino,Campesino,0,0,"[0,2)",1,0,"[1,6]",Fedecafetero,"[0, 2)",2,0,0,1,No,No,"[ 0,  12)","[0,2)",No
+F,NA,NA,"[2,4]",0,"[0,2)",0,0,0,NA,NA,NA,NA,NA,NA,Si,Si,NA,"[0,2)",NA
+M,Campesino,Campesino,0,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)",2,0,0,1,No,No,"[12,  52)","[0,2)",No
+F,Campesino,Campesino,0,1,"[3,5]",0,0,0,Fedecafetero,"[2,10]","[3,10]",0,0,"[2,10]",No,No,"[52,1096]","[0,2)",Si
+F,Nasa,Nasa,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,NA,NA,0,1,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",NA
+F,NA,NA,0,"[2,5]","[0,2)",0,0,0,Fedecafetero,"[0, 2)",2,0,0,"[2,10]",No,No,"[ 0,  12)","[0,2)",NA
+F,NA,NA,0,"[2,5]","[0,2)",1,0,0,Fedecafetero,"[2,10]","[0, 2)","[1,2]",0,0,No,No,NA,"[0,2)",Si
+M,NA,NA,0,0,"[0,2)",1,0,0,otro/varios,"[0, 2)","[0, 2)",0,0,0,No,No,NA,"[0,2)",NA
+M,Misak,Misak,1,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,NA,"[0,2)",Si
+F,NA,Misak,0,1,"[0,2)",1,0,0,NA,NA,NA,NA,NA,NA,No,No,NA,"[0,2)",NA
+M,Misak,Misak,"[2,4]",0,"[0,2)","[2,3]",0,0,Fedecafetero,"[2,10]","[0, 2)",0,0,1,No,No,NA,"[0,2)",Si
+M,Misak,Misak,0,"[2,5]","[0,2)",1,"[1,2]",0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,NA,"[0,2)",NA
+M,Nasa,Nasa,0,0,2,1,"[1,2]","[1,6]",Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
+F,NA,Nasa,0,1,"[0,2)",1,0,"[1,6]",otro/varios,NA,NA,NA,NA,0,No,No,"[52,1096]","[0,2)",No
+F,Nasa,Nasa,0,"[2,5]",2,0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,"[2,10]",No,No,"[ 0,  12)","[0,2)",No
+F,NA,Nasa,1,1,"[0,2)",0,0,0,otro/varios,"[0, 2)","[0, 2)",0,0,1,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,0,0,"[0,2)",0,0,0,otro/varios,"[2,10]",2,0,0,1,No,No,"[12,  52)","[0,2)",No
+M,Nasa,Nasa,"[2,4]","[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,NA,0,0,"[0,2)",0,"[1,2]","[1,6]",Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Nasa,NA,0,0,"[0,2)",0,0,"[1,6]",otro/varios,"[0, 2)",2,0,0,0,No,No,"[52,1096]","[0,2)",No
+M,Nasa,Nasa,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,Nasa,1,"[2,5]",2,0,0,0,Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)","[0,2)",No
+F,Nasa,Nasa,0,"[2,5]","[3,5]",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,NA,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Campesino,1,1,"[0,2)",0,0,"[1,6]",otro/varios,"[0, 2)","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",No
+F,Nasa,Nasa,0,0,"[0,2)",1,"[1,2]",0,Fedecafetero,"[2,10]","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+F,Nasa,Nasa,0,1,"[0,2)",1,0,0,NA,NA,NA,NA,NA,NA,No,No,NA,"[0,2)",Si
+M,Nasa,NA,0,0,"[0,2)",1,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[ 0,  12)","[0,2)",Si
+M,Nasa,Nasa,0,1,"[0,2)",1,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[52,1096]","[0,2)",No
+M,Nasa,Nasa,0,"[2,5]","[0,2)",1,0,0,Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[ 0,  12)","[0,2)",No
+M,Nasa,Nasa,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[3,10]",0,0,0,No,No,"[12,  52)","[0,2)",No
+M,Nasa,Nasa,0,"[2,5]",2,0,0,"[1,6]",alta calidad,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+F,Nasa,Nasa,0,1,2,0,0,0,NA,NA,NA,NA,NA,NA,No,No,"[52,1096]","[0,2)",No
+M,Nasa,NA,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+M,Nasa,NA,0,0,"[0,2)",0,0,"[1,6]",Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,"[12,  52)","[0,2)",Si
+F,NA,NA,1,0,"[0,2)",0,0,0,Caturra,"[0, 2)","[0, 2)",0,0,0,No,No,NA,"[0,2)",NA
+M,Nasa,Nasa,0,0,2,0,0,0,Fedecafetero,"[0, 2)","[0, 2)",0,0,0,No,No,NA,"[0,2)",Si
+M,Nasa,Nasa,"[2,4]",1,2,0,0,0,Fedecafetero,"[2,10]","[0, 2)","[1,2]",0,0,No,No,"[52,1096]","[0,2)",NA
+M,Nasa,Nasa,0,0,"[3,5]",0,0,"[1,6]",Fedecafetero,"[0, 2)",2,0,0,0,No,No,"[12,  52)","[0,2)",Si
